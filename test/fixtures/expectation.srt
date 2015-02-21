@@ -1,0 +1,24 @@
+1
+00:00:47,407 --> 00:00:49,932
+<i>"Winner, winner,
+chicken dinner."</i>
+
+2
+00:00:51,211 --> 00:00:54,703
+<i>Those words had been dancing
+around my head all night.</i>
+
+3
+00:00:55,748 --> 00:00:58,080
+<i>I mean, it's Vegas lore,
+that phrase.</i>
+
+4
+00:00:58,885 --> 00:01:02,286
+<i>Just ask any of the old-time
+pit bosses, they'll know.</i>
+
+5
+00:01:05,525 --> 00:01:09,962
+<i>It was a Chinese dealer at Binion's
+who was first credited with the line.</i>
